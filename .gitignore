@@ -96,6 +96,10 @@ gatsby-quickstart/node_modules
 gatsby-quickstart/.cache/
 gatsby-quickstart/src/gatsby-types.d.ts
 
+gatsby-quickstart/node_modules
+gatsby-quickstart/.cache/
+gatsby-quickstart/src/gatsby-types.d.ts
+
 # vuepress build output
 .vuepress/dist
 

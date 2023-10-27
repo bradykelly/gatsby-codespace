@@ -1,3 +1,5 @@
+// Intended Index but will initially be my profile page, maybe.
+
 import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
 
